@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background-color: darkgray;
+}
+h1{
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+h2{
+    font-weight: bold;
+}
+table,tr{
+    border: 3px solid;
+    border-color: black;
+}
