@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-color: darkgray;
+    background-color: rgb(97, 97, 97);
 }
 h1{
     font-weight: bold;
@@ -11,6 +11,8 @@ h2{
     font-weight: bold;
 }
 table,tr{
+    color: white;
     border: 3px solid;
     border-color: black;
+    background-color: black;
 }
